@@ -4,8 +4,10 @@ GravittoGroupのMCPlayNetwork Teamが運営を行っているMinecraftのマル�
 ## サーバー情報
 公式ウェブサイト
 https://www.mcplay.biz/
+
 公式コミュニティ
 https://community.mcplay.biz/
+
 公式twitter
 https://twitter.com/MCPlayNetwork 
 

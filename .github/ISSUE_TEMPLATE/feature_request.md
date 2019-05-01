@@ -2,7 +2,7 @@
 name: Feature request
 about: 機能提案テンプレート
 title: ''
-labels: ''
+labels: feature
 assignees: ''
 
 ---

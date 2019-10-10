@@ -1,3 +1,15 @@
+MCPlayNetworkの問題報告は[コミュニティフォーラム](https://forum.mcplay.biz/)に移動されました。
+不具合の報告を行う場合、[バグ報告カテゴリ](https://forum.mcplay.biz/forum-13.html)に投稿してください。
+
+**報告にはコミュニティフォーラムのアカウントが必要になります。**
+
+MCPlayNetwork bug reports have been moved to the [Community Forum](https://forum.mcplay.biz/).
+If you want to report a bug, please post to [Bug Report Category](https://forum.mcplay.biz/forum-13.html).
+
+**A community forum account is required for reporting.**
+
+---
+
 # MCPlayNetwork
 GravittoGroupのMCPlayNetwork Teamが運営を行っているMinecraftのマルチプレネットワークです。
 
